@@ -1,4 +1,5 @@
 # MACCS VS Morgan VS GCN
+Comparison of molecule representations (MACCS, Morgan fingerprints, Graphs)
   
 ## Описание репозитория:
 - *Dataset* - данные используемые в данном проекта
