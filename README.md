@@ -1,4 +1,4 @@
-# MACCS VS Morgan VS GCN
+# MACCS VS Morgan VS Graphs
 Comparison of molecule representations (MACCS, Morgan fingerprints, Graphs)
   
 ## Описание репозитория:
